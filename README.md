@@ -19,15 +19,15 @@ Trained a fully connected DNN to map CWT features of real band-limited seismic t
 
 ### Synthetic vs. Actual Seismic Trace (Well-to-Seismic Tie)
 <!-- INSERT: FinalWork.ipynb → "Seismic Trace (synthetic)" vs "Seismic Trace (actual)" side-by-side for all 4 wells -->
-![synthetic_vs_actual](figures/fig_synthetic_vs_actual.png)
+![synthetic_vs_actual](fig_synthetic_vs_actual.png)
 
 ### CWT Scalograms — All 4 Wells (Model Input Features)
 <!-- INSERT: FinalWork.ipynb → CWT Scaleogram (Magnitude) plots for F02-1, F03-2, F03-4, F06-1 -->
-![cwt_scalograms](figures/fig_cwt_scalograms.png)
+![cwt_scalograms](fig_cwt_scalograms.png)
 
 ### ⭐ Predicted Enhanced 2D Seismic Section — Inline 442
 <!-- INSERT: FinalWork.ipynb → original inline imshow vs DNN predicted section -->
-![predicted_section](figures/fig_predicted_2d_section.png)
+![predicted_section](fig_predicted_2d_section.png)
 
 ---
 
